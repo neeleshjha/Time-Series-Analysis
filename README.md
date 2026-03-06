@@ -19,11 +19,3 @@ Part 4: Evaluation and Comparison
 1.	Compute Error Metrics: Use metrics such as MAE, RMSE, and MAPE to evaluate the forecasts from both models.
 2.	Model Comparison: Discuss the performance, advantages, and limitations of each model based on the observed results and error metrics.
 3.	Conclusion: Summarize the findings and provide insights on which model(s) yielded the best performance for forecasting exchange rates in this dataset.
-Deliverables:
-•	Include visualizations and explanations for the choices and findings at each step.
-•	Well-commented Python code that used to conduct the analysis and build the models.
-Assessment Criteria:
-•	Accuracy and completeness of the data preparation and exploration steps.
-•	Justification for model selection and parameter tuning decisions.
-•	Clarity and depth of the analysis in the diagnostics and model evaluation stages.
-This assignment offers a hands-on experience with real-world data, applying sophisticated time series forecasting methods to predict future currency exchange rates.
